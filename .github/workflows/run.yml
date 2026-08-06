@@ -2,13 +2,13 @@ name: 刷步数
 
 on:
   schedule:
-    - cron: '18 21 * * *'
-    - cron: '18 21 * * *'
-    - cron: '18 21 * * *'
-    - cron: '18 21 * * *'
-    - cron: '18 21 * * *'
-    - cron: '18 21 * * *'
-    - cron: '18 21 * * *'
+    - cron: '45 21 * * *'
+    - cron: '45 21 * * *'
+    - cron: '45 21 * * *'
+    - cron: '45 21 * * *'
+    - cron: '45 21 * * *'
+    - cron: '45 21 * * *'
+    - cron: '45 21 * * *'
   workflow_dispatch:
 
 jobs:
